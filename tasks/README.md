@@ -1,6 +1,8 @@
 # Todolist
 
-![Task](assets/task.png)
+<div style="display: flex; justify-content: center;">
+  <img src="assets/task.png" width="40%">
+</div>
 
 ## Getting Started
 
